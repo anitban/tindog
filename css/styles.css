@@ -1,0 +1,65 @@
+body{
+  font-family: Montserrat
+}
+#title{
+  background-color: #ff4c68;
+}
+#features{
+  padding: 5% 15%;
+}
+.middle{
+  text-align: center;
+
+}
+h3{
+  font-family: Montserrat;
+  font-weight:bold;
+  font-size: 1.5rem;
+}
+p{
+  color: #afafaf;
+}
+.container-fluid{
+  padding: 3% 15%;
+  }
+.iphone-img{
+  transform: rotate(30deg);
+  width: 60%;
+}
+.nav-item{
+  padding: 0 18px;
+
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.navbar{
+  padding-bottom: 3rem;
+}
+.nav-link{ font-size: 1.2rem;
+  font-weight: 100;
+
+}
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+h1{
+
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3.2rem;
+  color: white;
+  line-height: 1.5;
+}
+.img-clr{
+  background-color: #ff4c68;
+  margin: 1rem;
+  border-radius: 50%;
+  width:15%;
+}
+.img-clr:hover{
+background-color:  orange;
+}
